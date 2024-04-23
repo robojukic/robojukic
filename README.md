@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert Jukić</h1>
-<h3 align="center">A passionate frontend developer from Croatia</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 <h3 align="left">Connect with me:</h3>
